@@ -1,0 +1,11 @@
+# Folders
+*.vscode/
+*build/
+
+# Filetypes
+*.out
+
+# Specific files
+*main
+*stb
+*.DS_Store
