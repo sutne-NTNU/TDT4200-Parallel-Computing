@@ -1,0 +1,21 @@
+[submodule "00 - Intro to C programming/lib/stb"]
+	path = 00 - Intro to C programming/lib/stb
+	url = https://github.com/nothings/stb.git
+[submodule "01 - MPI - Intro/lib/stb"]
+	path = 01 - MPI - Intro/lib/stb
+	url = https://github.com/nothings/stb.git
+[submodule "02 - MPI - Programming/Part 1 - Image Convolution/lib/stb"]
+	path = 02 - MPI - Programming/Part 1 - Image Convolution/lib/stb
+	url = https://github.com/nothings/stb.git
+[submodule "02 - MPI - Programming/Part 2 - Image Morphing/lib/stb"]
+	path = 02 - MPI - Programming/Part 2 - Image Morphing/lib/stb
+	url = https://github.com/nothings/stb.git
+[submodule "05 - CUDA Intro/lib/stb"]
+	path = 05 - CUDA Intro/lib/stb
+	url = https://github.com/nothings/stb.git
+[submodule "06 - CUDA - Image Morphing/lib/stb"]
+	path = 06 - CUDA - Image Morphing/lib/stb
+	url = https://github.com/nothings/stb.git
+[submodule "07 - Parallel IO with Pthreads/lib/stb"]
+	path = 07 - Parallel IO with Pthreads/lib/stb
+	url = https://github.com/nothings/stb.git
