@@ -5,3 +5,9 @@ Optimizing algorithms for both single and multi-processors systems as well as ac
 
 ## Learning outcome
 Understanding parallel programing is becoming increasingly more important as PCs and desktops incorporate multicore and multichip multiprocessor technology. Knowledge: The goal of this course is hence: To give the students a good understanding of optimzing serial programs and algorithms within computational science. Skills: Develop the students programming skills for and future multi- and many-core processor systems.
+
+# Highlights
+
+## Face Morphing done in parallell with CUDA from Assignment 6
+
+![Facec-Morphing](06%20-%20CUDA%20-%20Image%20Morphing/images/output/video/morph.gif)
